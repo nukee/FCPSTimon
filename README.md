@@ -1,2 +1,2 @@
 # FCPSTimon
-FCPSTimon is a DockerFile. Created for facility launch the application FCPS.
+FCPSTimon is a DockerFile. Is created for facilitate launch the application FCPS.
